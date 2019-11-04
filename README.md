@@ -1,0 +1,2 @@
+# Bert_train_myself
+自己对Bert训练源码的改编，主要是为了方便随时获得验证集的LOSS值
